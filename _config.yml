@@ -1,12 +1,13 @@
 title: Leo Carle # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/1663611354138.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
+    
   <br>
-  in _config.yml 
+  
   <br><br>
   <a href="https://www.linkedin.com/in/leocarle/">LinkedIn</a> 
   <br>
   <a href="https://github.com/leosc326">GitHub</a>   
+
   
 theme: jekyll-theme-minimal
