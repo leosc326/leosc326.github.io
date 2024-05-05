@@ -39,37 +39,26 @@ sp500_df_alternate
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Wealth Management Stock Selection Dashboard](https://github.com/NickJS1231/Final-Project)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+My final project with @NickJS1231 and @keishamodi that uses efficient frontier curves and capital allocation lines to find optimal stocks in the S&P 500 at different levels of risk and using different subsets of the index. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dashboard](https://portfolio-utility-dashboard-nick0keisha0leo.streamlit.app/)
 
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+<img src="images/stockdashboard.PNG?raw=true"/>
 
 ## Career Objectives
 
-Write what you want. 
+I have the analytical mind and problem solving skills of an engineer and the business background to know what those problems are.
 
-Sell yourself!
-
----
+I have always tried to embody the saying of "Jack of all trades, master of none," which is oftimes better than a master of none. 
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I listen to a lot of music and I watch a lot of TV shows and movies. 
+
+[Spotify](https://open.spotify.com/user/littlewapple)
+[imDB movie/show opinions](https://www.imdb.com/user/ur106060884/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
