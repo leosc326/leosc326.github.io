@@ -1,14 +1,22 @@
 ## About Me
 
-What's up? hey\|you
+Leo Carle
 
-I am an awesome student at Lehigh, you should hire me!
+Integrated Business & Engineering (IBE) Honors Student
+
+Pursuing degrees in Finance and Industrial & Systems Engineering (ISE)
+
+Working towards minors in Computer Science, Data Science, and Economics
+
+President of the Lehigh Management Club
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="images/1663611354138.jpg?raw=true" width="50%">
 </p>
+
+[LinkedIn](https://www.linkedin.com/in/leocarle/)
 
 ---
 
@@ -20,7 +28,6 @@ _**[Sentiment & Return Analytics on the S&P 500](https://github.com/LeDataSciFi/
 
 My midterm project which handles the S&P 500 and finds correlations between Returns of different time periods and the word choices used in the 10k filings. 
 
-sp500_df_alternate
 | Symbol | Security               | SEC filings | GICS Sector           | GICS Sub-Industry              | Headquarters Location      | Date first added | CIK     | Founded | BHR_positive | ... | LM_negative | ESG_positive | ESG_negative | TECH_positive | TECH_negative | WORLD_positive | WORLD_negative | returns_v1 | returns_v2 | returns_v3 |
 |--------|------------------------|-------------|-----------------------|--------------------------------|----------------------------|------------------|---------|---------|--------------|-----|-------------|--------------|--------------|---------------|---------------|----------------|----------------|------------|------------|------------|
 | MMM    | 3M                     | reports     | Industrials           | Industrial Conglomerates      | Saint Paul, Minnesota     | 1976-08-09       | 66740   | 1902    | 0.078706     | ... | 0.021533    | 0.000658     | 0.001316     | 0.106778      | 0.003248      | 0.000844       | 0.000386       | 0.007573   | -0.017671  | -0.085951  |
@@ -57,9 +64,8 @@ I have always tried to embody the saying of "Jack of all trades, master of none,
 
 I listen to a lot of music and I watch a lot of TV shows and movies. 
 
-[Spotify](https://open.spotify.com/user/littlewapple)
-[imDB movie/show opinions](https://www.imdb.com/user/ur106060884/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0)
+[Spotify - Music](https://open.spotify.com/user/littlewapple)
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+[IMDb - Shows & Movies](https://www.imdb.com/user/ur106060884/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0)
+
+
