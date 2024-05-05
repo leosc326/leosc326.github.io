@@ -16,7 +16,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Sentiment & Return Analytics on the S&P 500](https://github.com/LeDataSciFi/asgn-05-leosc326)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
