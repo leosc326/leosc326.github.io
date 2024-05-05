@@ -1,20 +1,16 @@
----
-layout: wide_default
----  
-
-## About Me
+ ## About Me
 
 Leo Carle
 
-Sophomore at Lehigh University
+- Sophomore at Lehigh University
 
-Integrated Business & Engineering (IBE) Honors Student
+- Integrated Business & Engineering (IBE) Honors Student
 
-Pursuing degrees in Finance and Industrial & Systems Engineering (ISE)
+- Pursuing degrees in Finance and Industrial & Systems Engineering (ISE)
 
-Working towards minors in Computer Science, Data Science, and Economics
+- Working towards minors in Computer Science, Data Science, and Economics
 
-President of the Lehigh Management Club
+- President of the Lehigh Management Club
 
 <!-- Upload your own photo and change the path -->
 
