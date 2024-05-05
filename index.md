@@ -1,6 +1,12 @@
+---
+layout: wide_default
+---  
+
 ## About Me
 
 Leo Carle
+
+Sophomore at Lehigh University
 
 Integrated Business & Engineering (IBE) Honors Student
 
